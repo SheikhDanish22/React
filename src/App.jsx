@@ -4,6 +4,9 @@
 // //   )
 // // }
 // // export default App;
+
+
+
 // // import React from "react";
 // // const name="Danish"
 // // const age=27;
@@ -42,19 +45,19 @@
   
 // //22-10-24
 
-// // import College from "./cybrom";
-// //  const App=()=>{
-// //   return(
-// //     <>
-// //        <h1>Application Form</h1>
-// //        Name : <input type="text" />
-// //        <br />
-// //        City : <input type="text" />
-// //        <hr  size="4" color="red"/>
-// //        <button>save</button>
-// //     </>
-// //   )
-// //  }
+// import Cybrom from "./cybrom";
+//  const App=()=>{
+//   return(
+//     <>
+//        <h1>Application Form</h1>
+//        Name : <input type="text" />
+//        <br />
+//        City : <input type="text" />
+//        <hr  size="4" color="red"/>
+//        <button>save</button>
+//     </>
+//   )
+//  }
 // // export default App;
 
 // // 24/10
@@ -142,3 +145,17 @@
 
 
 
+const App=()=>{
+  return(
+    <>
+    <h1>Hello {data} and salary {salary}</h1>
+    <h2>hello</h2>
+    <h1 className="head">Application form</h1>
+    Name: <input type="text"/>
+    <br />
+    City : <input type="text" />
+    <hr size="4" color="red"/>
+    <button>Save</button>
+    </>
+  )
+}

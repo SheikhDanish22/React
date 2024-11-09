@@ -1,5 +1,5 @@
 
-//25/10/2025
+//25/10/2024
 
 // const Collage=(props)=>{
 //     return(
@@ -52,12 +52,23 @@
 //      export default Collage;
 
 
-const Collage=(props)=>{
-    return(
-        <>
+// const Collage=(props)=>{
+//     return(
+//         <>
         
 
         
-        </>
+//         </>
+//     )
+// }
+const Cybrom=()=>{
+    return(
+    
+      <>
+      <h1>we are cybrom student</h1>
+      </>
+  
+  
     )
-}
+  }
+  export default Cybrom;
