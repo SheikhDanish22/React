@@ -1,0 +1,32 @@
+{
+    "Student":[
+        {
+           "RollNo":101,
+           "Name":"aman",
+           "City":"Bhopal",
+           "Fees":40000
+        },
+        {
+            "RollNo":102,
+            "Name":"aman",
+            "City":"Bhopal",
+            "Fees":40000
+         },
+         {
+            "RollNo":103,
+            "Name":"aman",
+            "City":"Bhopal",
+            "Fees":40000
+         },
+         {
+            "RollNo":104,
+            "Name":"aman",
+            "City":"Bhopal",
+            "Fees":40000
+         }
+             
+
+        
+
+    ]
+}
