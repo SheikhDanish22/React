@@ -1,0 +1,39 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "RollNo": 101,
+      "Name": "aman",
+      "City": "Bhopal",
+      "Fees": 40000
+    },
+    {
+      "id": "2",
+      "RollNo": 102,
+      "Name": "aman",
+      "City": "Bhopal",
+      "Fees": 40000
+    },
+    {
+      "id": "3",
+      "RollNo": 103,
+      "Name": "aman",
+      "City": "Bhopal",
+      "Fees": 40000
+    },
+    {
+      "id": "4",
+      "RollNo": 104,
+      "Name": "aman",
+      "City": "Bhopal",
+      "Fees": 40000
+    },
+    {
+      "id": "c0ff",
+      "RollNo": "123",
+      "Name": "abhay",
+      "City": "sagar",
+      "Fees": "40000"
+    }
+  ]
+}
